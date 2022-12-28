@@ -68,3 +68,39 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+## HOC -->Higher order components 
+
+
+npm i react-router-dom // when we work in router in the react 
+
+router => routes ==> route
+                         /home ,/user ,/about-us 
+
+// in react it is also called browser-router
+
+
+
+## version description 
+ v 6.5.0
+6 ===>major issue/breaking updates
+5===> minor issue/updates
+0===>very minor issue/bug fix/patch fixed
+
+
+nav<home>footer
+nav<contact>footer
+nav<about-us>footer
+
+## layout // hoc -->higher order component 
+
+
+## React life cycle method 
+// it work in class component 
+// if we want use in functional for that we use Hooks 
+// mounted -->render , constructor 
+// updation 
+// unmounted
+
